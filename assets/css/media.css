@@ -1,0 +1,47 @@
+@media screen and (min-width:768px) {
+    /* Header */
+    .header{
+        display: flex;
+        justify-content: space-around;
+    }
+    .greeting{
+        width: 40%;
+    }
+    .photo{
+        width: 40%;
+        height: 70vh;
+    }
+    /* About */
+    .about{
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+    .about__info{
+        width: 40%;
+    }
+    .about__img{
+        display: block;
+        width: 45%;
+        margin: 0;
+    }
+    /* Portfolio */
+    .portfolio{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .cards__container{
+        flex-direction: row;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+    .card{
+        width: 47%;
+    }
+}
+@media screen and (min-width:1024px) {
+    
+    .card{
+        width: 23%;
+    }
+}
