@@ -44,4 +44,7 @@
     .card{
         width: 23%;
     }
+    .about__icon{
+        height: 50px;
+    }
 }
