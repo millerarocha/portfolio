@@ -1,0 +1,29 @@
+/* Footer*/
+.footer{
+    text-align: center;
+    background-color: var(--dark-blue);
+    padding: 50px 0;
+    color: var(--text-white);
+}
+.footer__title{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 20px;
+}
+.footer__icons{
+    margin: 20px 0;
+}
+.footer__link{
+    color: inherit;
+    font-size: 30px;
+    margin: 0 10px;
+}
+.footer__link:hover{
+    color: var(--purple);
+    transition: 0.5s ease-in;
+}
+.footer__text{
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 14px;
+}

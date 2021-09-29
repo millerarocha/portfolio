@@ -1,0 +1,31 @@
+/* Portfolio */
+.portfolio{
+    padding: 50px 10px;
+}
+.portfolio__title{
+    display: inline-block;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 22px;
+    border-bottom: 4px solid var(--purple);
+}
+.cards__container{    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 50px 0;
+}
+
+@media screen and (min-width:768px) {
+
+    /* Portfolio */
+    .portfolio{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .cards__container{
+        flex-direction: row;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+}
