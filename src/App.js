@@ -6,7 +6,8 @@ import Header from './components/Header/Header';
 import Portfolio from './components/Portfolio/Portfolio';
 import Card from './components/Card/Card';
 
-import projects from './DB/projects'
+import projects from './DB/projects';
+import others from './DB/others';
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
         title='Portfolio'
         id='portfolio'
       >
-        {projects.map((item)=>
+        {projects.reverse().map((item)=>
           <Card
             item={item}
           />
@@ -27,7 +28,11 @@ function App() {
         title='Other Projects'
         id='others'
       >
-      
+        {others.reverse().map((item)=>
+          <Card
+            item={item}
+          />
+        )}      
       </Portfolio>  
       <Footer/>
     </div>
