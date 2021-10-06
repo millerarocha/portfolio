@@ -31,6 +31,14 @@ const projects = [
         github: "https://github.com/millerarocha/hotel-reservation-react-app",
         demo:"https://millerarocha.github.io/hotel-reservation-react-app/" 
     },
+    {
+        id: 4,
+        title: "Gifos web app",
+        image: require('../assets/images/portfolio/gifos.png'),
+        description: "Responsive web app using html and css and reactJs",
+        github: "https://github.com/millerarocha/Gifos-react-app",
+        demo:"https://millerarocha.github.io/Gifos-react-app/" 
+    },
 ];
 
 export default projects;
