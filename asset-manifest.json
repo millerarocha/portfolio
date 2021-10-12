@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.01be74b6.chunk.css",
-    "main.js": "/portfolio/static/js/main.c6d07923.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c6d07923.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.f322b5f5.chunk.css",
+    "main.js": "/portfolio/static/js/main.ece868d0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ece868d0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
     "static/js/2.17b56b4c.chunk.js": "/portfolio/static/js/2.17b56b4c.chunk.js",
     "static/js/2.17b56b4c.chunk.js.map": "/portfolio/static/js/2.17b56b4c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.01be74b6.chunk.css.map": "/portfolio/static/css/main.01be74b6.chunk.css.map",
+    "static/css/main.f322b5f5.chunk.css.map": "/portfolio/static/css/main.f322b5f5.chunk.css.map",
     "static/js/2.17b56b4c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.17b56b4c.chunk.js.LICENSE.txt",
     "static/media/MachineryIOTAlarms.png": "/portfolio/static/media/MachineryIOTAlarms.d7c31928.png",
     "static/media/PILLYPET.png": "/portfolio/static/media/PILLYPET.b57a6658.png",
@@ -18,6 +18,7 @@
     "static/media/bootstrap-logo.png": "/portfolio/static/media/bootstrap-logo.96476683.png",
     "static/media/coding.69de8cd1.jpg": "/portfolio/static/media/coding.69de8cd1.jpg",
     "static/media/css.png": "/portfolio/static/media/css.00a872a8.png",
+    "static/media/discap.png": "/portfolio/static/media/discap.1e96a414.png",
     "static/media/elster.JPG": "/portfolio/static/media/elster.83ec94ac.JPG",
     "static/media/firebase.png": "/portfolio/static/media/firebase.22ade27d.png",
     "static/media/gifos.png": "/portfolio/static/media/gifos.2b91e9d2.png",
@@ -25,16 +26,18 @@
     "static/media/html.png": "/portfolio/static/media/html.23784160.png",
     "static/media/iotQualityAir.png": "/portfolio/static/media/iotQualityAir.650c53b4.png",
     "static/media/js.png": "/portfolio/static/media/js.1fd44cea.png",
+    "static/media/licolsim.png": "/portfolio/static/media/licolsim.88100e97.png",
     "static/media/photo.33f2a87f.png": "/portfolio/static/media/photo.33f2a87f.png",
     "static/media/podcast.png": "/portfolio/static/media/podcast.045ea0ae.png",
     "static/media/react-logo.png": "/portfolio/static/media/react-logo.f153eb9f.png",
     "static/media/travelco.png": "/portfolio/static/media/travelco.af0be9d7.png",
-    "static/media/uav.png": "/portfolio/static/media/uav.7a375642.png"
+    "static/media/uav.png": "/portfolio/static/media/uav.7a375642.png",
+    "static/media/uniforms.png": "/portfolio/static/media/uniforms.a987f7d4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.37da8305.js",
     "static/js/2.17b56b4c.chunk.js",
-    "static/css/main.01be74b6.chunk.css",
-    "static/js/main.c6d07923.chunk.js"
+    "static/css/main.f322b5f5.chunk.css",
+    "static/js/main.ece868d0.chunk.js"
   ]
 }
