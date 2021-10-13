@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f322b5f5.chunk.css",
+    "main.css": "/portfolio/static/css/main.b51adbbf.chunk.css",
     "main.js": "/portfolio/static/js/main.ece868d0.chunk.js",
     "main.js.map": "/portfolio/static/js/main.ece868d0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
@@ -8,7 +8,7 @@
     "static/js/2.17b56b4c.chunk.js": "/portfolio/static/js/2.17b56b4c.chunk.js",
     "static/js/2.17b56b4c.chunk.js.map": "/portfolio/static/js/2.17b56b4c.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.f322b5f5.chunk.css.map": "/portfolio/static/css/main.f322b5f5.chunk.css.map",
+    "static/css/main.b51adbbf.chunk.css.map": "/portfolio/static/css/main.b51adbbf.chunk.css.map",
     "static/js/2.17b56b4c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.17b56b4c.chunk.js.LICENSE.txt",
     "static/media/MachineryIOTAlarms.png": "/portfolio/static/media/MachineryIOTAlarms.d7c31928.png",
     "static/media/PILLYPET.png": "/portfolio/static/media/PILLYPET.b57a6658.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.37da8305.js",
     "static/js/2.17b56b4c.chunk.js",
-    "static/css/main.f322b5f5.chunk.css",
+    "static/css/main.b51adbbf.chunk.css",
     "static/js/main.ece868d0.chunk.js"
   ]
 }
